@@ -1,0 +1,10 @@
+:root {
+  --font-family: 'Open Sans';
+  --content-width: 1200px;
+  --container-padding: 15px;
+  --container-width: calc(var(--content-width) + var(--container-padding) * 2);
+
+
+  --color-primary: #007bff;
+  --color-secondary: #8814ca;
+}
